@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Om Bhai Patel</h1>
 <h3 align="center">A passionate & Android Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ombhai5&label=Profile%20views&color=0e75b6&style=flat" alt="ombhai5" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ombhai5" alt="ombhai5" /></a> </p>
 
 - 🔭 I’m currently working on **Lynx**
 
@@ -41,8 +38,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/OmbhaiPatel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="OmbhaiPatel" /></a><a href="https://ko-fi.com/OmbhaiPatel"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="OmbhaiPatel" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ombhai5&show_icons=true&locale=en&layout=compact" alt="ombhai5" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ombhai5&show_icons=true&locale=en" alt="ombhai5" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ombhai5&show_icons=true&locale=en&layout=compact" alt="ombhai5" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ombhai5&" alt="ombhai5" /></p>
